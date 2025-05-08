@@ -1,2 +1,2 @@
-# Simple-project
+# Sample-project
 My first Git Project
